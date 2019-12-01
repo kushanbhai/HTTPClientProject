@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="HTTPClientTESTsuite" duration-ms="8524" started-at="2019-10-07T12:29:17Z" finished-at="2019-10-07T12:29:25Z">
+    <groups>
+    </groups>
+    <test name="HTTPClientTESTcases" duration-ms="8524" started-at="2019-10-07T12:29:17Z" finished-at="2019-10-07T12:29:25Z">
+      <class name="com.qa.tests.PutAPITestCASE">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.tests.PutAPITestCASE@4cc0edeb]" name="setup" is-config="true" duration-ms="0" started-at="2019-10-07T12:29:25Z" finished-at="2019-10-07T12:29:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createusertest()[pri:0, instance:com.qa.tests.PutAPITestCASE@4cc0edeb]" name="createusertest" duration-ms="403" started-at="2019-10-07T12:29:25Z" finished-at="2019-10-07T12:29:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createusertest -->
+      </class> <!-- com.qa.tests.PutAPITestCASE -->
+      <class name="com.qa.tests.GetCitydetailsAPITestCase">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.tests.GetCitydetailsAPITestCase@7823a2f9]" name="setup" is-config="true" duration-ms="1" started-at="2019-10-07T12:29:20Z" finished-at="2019-10-07T12:29:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getAPITest()[pri:0, instance:com.qa.tests.GetCitydetailsAPITestCase@7823a2f9]" name="getAPITest" duration-ms="4345" started-at="2019-10-07T12:29:20Z" finished-at="2019-10-07T12:29:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAPITest -->
+      </class> <!-- com.qa.tests.GetCitydetailsAPITestCase -->
+      <class name="com.qa.tests.PostAPITestCase">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.tests.PostAPITestCase@482f8f11]" name="setup" is-config="true" duration-ms="8" started-at="2019-10-07T12:29:17Z" finished-at="2019-10-07T12:29:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createusertest()[pri:0, instance:com.qa.tests.PostAPITestCase@482f8f11]" name="createusertest" duration-ms="2940" started-at="2019-10-07T12:29:17Z" finished-at="2019-10-07T12:29:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createusertest -->
+      </class> <!-- com.qa.tests.PostAPITestCase -->
+      <class name="com.qa.tests.DeleteAPITestCase">
+        <test-method status="PASS" signature="getAPITest()[pri:0, instance:com.qa.tests.DeleteAPITestCase@1b604f19]" name="getAPITest" duration-ms="361" started-at="2019-10-07T12:29:20Z" finished-at="2019-10-07T12:29:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAPITest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.tests.DeleteAPITestCase@1b604f19]" name="setup" is-config="true" duration-ms="0" started-at="2019-10-07T12:29:20Z" finished-at="2019-10-07T12:29:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- com.qa.tests.DeleteAPITestCase -->
+      <class name="com.qa.tests.GetAPITestCase">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.tests.GetAPITestCase@1593948d]" name="setup" is-config="true" duration-ms="0" started-at="2019-10-07T12:29:20Z" finished-at="2019-10-07T12:29:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getAPITest()[pri:0, instance:com.qa.tests.GetAPITestCase@1593948d]" name="getAPITest" duration-ms="331" started-at="2019-10-07T12:29:20Z" finished-at="2019-10-07T12:29:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAPITest -->
+      </class> <!-- com.qa.tests.GetAPITestCase -->
+    </test> <!-- HTTPClientTESTcases -->
+  </suite> <!-- HTTPClientTESTsuite -->
+</testng-results>

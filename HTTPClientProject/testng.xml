@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HTTPClientTESTsuite">
+  <test thread-count="5" name="HTTPClientTESTcases">
+    <classes>
+      <class name="com.qa.tests.PostAPITestCase"/>
+      <class name="com.qa.tests.GetAPITestCase"/>
+      <class name="com.qa.tests.DeleteAPITestCase"/>
+      <class name="com.qa.tests.GetCitydetailsAPITestCase"/>
+      <class name="com.qa.tests.PutAPITestCASE"/>
+    </classes>
+  </test> 
+</suite> 
