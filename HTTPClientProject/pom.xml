@@ -37,7 +37,7 @@
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
 			<version>6.11</version>
-			<scope>compile123</scope>
+			<scope>compile</scope>
 		</dependency>
 
   </dependencies>
